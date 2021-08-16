@@ -1,2 +1,2 @@
 # Public
-Testing public features
+Testing public features.
